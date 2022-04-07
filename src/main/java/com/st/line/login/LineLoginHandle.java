@@ -115,7 +115,7 @@ public class LineLoginHandle {
 		}
 		
 		
-		return null;
+		
 	}
 	/*
 	@RequestMapping(value = "/auth", method = RequestMethod.POST)
